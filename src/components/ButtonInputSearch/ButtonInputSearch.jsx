@@ -16,8 +16,7 @@ const ButtonInputSearch = (props) => {
           placeholder={placeholder}      
           prefix={<SearchOutlined/>}
           bordered={bordered}   
-          style={{backgroundColor: backgroundColorInput, borderRadius: '8px'}}
-          
+          style={{backgroundColor: backgroundColorInput, borderRadius: '8px'}}         
         />      
  
         {/* <Button 
